@@ -18,7 +18,7 @@ author:
   name:           'Sujin Jeon'
   # url:            https://twitter.com/fongandrewc
 
-paginate:         5
+paginate:         10
 paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
