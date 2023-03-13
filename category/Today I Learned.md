@@ -1,4 +1,4 @@
 ---
 layout: category
-title: TIL
+title: Today I Learned
 ---

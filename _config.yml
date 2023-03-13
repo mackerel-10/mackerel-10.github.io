@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            'mack-10'
+title:            'mackerel-10'
 # tagline:          'A Jekyll theme'
-description:      'Dev history'
-url:              https://mack-10.github.io
+description:      'Dev Log'
+url:              https://mackerel-10.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
