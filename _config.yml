@@ -5,7 +5,8 @@ highlighter:      rouge
 # Setup
 title:            'mackerel-10'
 # tagline:          'A Jekyll theme'
-description:      'Dev Log'
+description:      'Junior Backend Engineer<br>
+                  Dev Log'
 url:              https://mackerel-10.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
