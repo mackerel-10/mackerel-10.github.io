@@ -7,6 +7,7 @@ gem "bundler", "~> 2.1", ">= 2.1.4"
 
 group :jekyll_plugins do
     gem 'jekyll', '3.9.3'
+    gem "jekyll-theme-hydeout", "~> 4.1"
     gem 'jekyll-theme-primer', '0.6.0'
     gem "jekyll-gist", "~> 1.4"
     gem "jekyll-paginate", "~> 1.1"
