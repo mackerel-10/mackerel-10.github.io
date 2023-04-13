@@ -30,16 +30,6 @@ plugins:
     - 'jekyll-paginate'
     - 'jekyll-feed'
     - 'faraday-retry'
-    # - jekyll-seo-tag
-    # - 'jekyll-github-metadata'
-    # - jekyll-coffeescript
-    # - jekyll-commonmark-ghpages
-    # - jekyll-relative-links
-    # - jekyll-optional-front-matter
-    # - jekyll-readme-index
-    # - jekyll-default-layout
-    # - jekyll-titles-from-headings
-    # - jekyll-remote-theme
 
 # Sidebar link settings
 sidebar_home_link: true
