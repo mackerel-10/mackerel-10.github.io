@@ -29,7 +29,13 @@ plugins:
     - 'jekyll-gist'
     - 'jekyll-paginate'
     - 'jekyll-feed'
-    - 'faraday-retry'
+    - jekyll-coffeescript
+    - jekyll-default-layout
+    - jekyll-github-metadata
+    - jekyll-optional-front-matter
+    - jekyll-readme-index
+    - jekyll-titles-from-headings
+    - jekyll-relative-links
 
 # Sidebar link settings
 sidebar_home_link: true
