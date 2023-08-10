@@ -33,6 +33,6 @@ date: '2023-03-14'
 
 ---
 
-## Reference Link
+### Reference
 
 1. [디스코드 봇 만들기(1) - 봇생성](https://scvtwo.tistory.com/196)
