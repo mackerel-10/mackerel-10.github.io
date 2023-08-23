@@ -24,11 +24,6 @@ date: '2023-08-23T16:56:00+09:00'
 ### 의사 코드
 
 ```javascript
-/**
- * @param {number[]} nums
- * @param {number} val
- * @return {number}
- */
 var removeElement = function(nums, val) {
   const 필터링된 값 = val가 아닌 값만 필터링;
   const k = 필터링된 값의 길이;
@@ -41,11 +36,6 @@ var removeElement = function(nums, val) {
 ### 내 코드
 
 ```javascript
-/**
- * @param {number[]} nums
- * @param {number} val
- * @return {number}
- */
 var removeElement = function (nums, val) {
   const newNums = nums.filter((number) => number !== val);
   const k = newNums.length;

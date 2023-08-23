@@ -23,10 +23,6 @@ date: '2023-08-23T20:26:00+09:00'
 ### 의사 코드
 
 ```javascript
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var removeDuplicates = function(nums) {
   let 포인터1의 인덱스
   let 카운터
@@ -48,10 +44,6 @@ var removeDuplicates = function(nums) {
 ### 내 코드
 
 ```javascript
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var removeDuplicates = function (nums) {
   let i = 0;
   let count = 1;
