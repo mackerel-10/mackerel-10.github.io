@@ -94,5 +94,5 @@ var removeDuplicates = function(nums) {
 
 ### Reference
 
-- [C++/Java/Python/JavaScript | 🚀 ✅ Fully Explained | 🚀 ✅ Two Pointer](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3416595/c-java-python-javascript-fully-explained-two-pointer/?envType=study-plan-v2&envId=top-interview-150#:~:text=%7D%0A%7D%3B-,JavaScript,-/**%0A%20*%20%40param)
+- [C++/Java/Python/JavaScript \| 🚀 ✅ Fully Explained \| 🚀 ✅ Two Pointer](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3416595/c-java-python-javascript-fully-explained-two-pointer/?envType=study-plan-v2&envId=top-interview-150#:~:text=%7D%0A%7D%3B-,JavaScript,-/**%0A%20*%20%40param)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3337993/javascript-o-1-extra-memory-99-beats/?envType=study-plan-v2&envId=top-interview-150#:~:text=JAVASCRIPT%20%7C%7C%20O%281%29%20extra%20memory%20%7C%7C%2099%25%20beats)

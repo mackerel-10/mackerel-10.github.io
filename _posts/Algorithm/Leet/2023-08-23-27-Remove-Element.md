@@ -30,11 +30,11 @@ date: '2023-08-23T16:56:00+09:00'
  * @return {number}
  */
 var removeElement = function(nums, val) {
-  	const 필터링된 값 = val가 아닌 값만 필터링;
-	const k = 필터링된 값의 길이;
-	nums = 필터링된 값으로 수정
+  const 필터링된 값 = val가 아닌 값만 필터링;
+  const k = 필터링된 값의 길이;
+  nums = 필터링된 값으로 수정
 
-	return k;
+  return k;
 };
 ```
 
