@@ -50,10 +50,6 @@ var removeDuplicates = function (nums) {
 ### 다른 해결법
 
 ```javascript
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var removeDuplicates = function (nums) {
   let i = 0;
   for (let j = 1; j < nums.length; j++) {
@@ -71,10 +67,6 @@ var removeDuplicates = function (nums) {
 Two Pointer Algorithm을 이용해 풀이하였다. 분명 앞에서 배웠는데, 적용할 생각을 못했다. 위 코드는 `i`와 `j`라는 변수를 생성해 `i = 0`, `j = 1`로 두개의 포인트를 생성해 값을 비교하며 0번째 인덱스부터 중복되지 않는 값을 넣어간다.
 
 ```javascript
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var removeDuplicates = function(nums) {
   // 1st solution *
   //TIME-COMPLEXITY: O(n);

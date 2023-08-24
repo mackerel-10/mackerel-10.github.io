@@ -53,11 +53,6 @@ var removeElement = function (nums, val) {
 ### 다른 해결법
 
 ```javascript
-/**
- * @param {number[]} nums
- * @param {number} val
- * @return {number}
- */
 var removeElement = function (nums, val) {
   for (let i = 0; i < nums.length; i++) {
     if (val == nums[i]) {
